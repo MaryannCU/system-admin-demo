@@ -1,0 +1,5 @@
+System Admin Demo Project
+
+- Task 1: Set up IAM
+- Task 2: Enable monitoring
+- Task 3: Apply SSL certificate
